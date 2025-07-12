@@ -2,7 +2,7 @@
 
 A content-based movie recommender system built using Python. It suggests movies similar to the input movie based on features like genres, cast, director, and plot overview—powered by natural language processing (NLP) and cosine similarity.
 
-![App Screenshot](Screenshot_2025-07-12-19-26-33-078_com.whatsapp.jpg)
+![App Screenshot](IMG_20250712_220312.jpg)
 
 ---
 
